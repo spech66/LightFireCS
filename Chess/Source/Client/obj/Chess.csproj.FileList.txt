@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Chess.exe
+bin\Debug\Chess.pdb
+bin\Debug\LightFireCS.dll
+bin\Debug\Tao.DevIl.dll
+bin\Debug\Tao.OpenAl.dll
+bin\Debug\Tao.OpenGl.dll
+bin\Debug\Tao.OpenGl.ExtensionLoader.dll
+bin\Debug\Tao.OpenGl.Glu.dll
+bin\Debug\Tao.Sdl.dll
+bin\Debug\LightFireCS.pdb
+obj\Debug\Chess.exe
+obj\Debug\Chess.pdb

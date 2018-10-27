@@ -1,0 +1,20 @@
+<Combine name="Chess" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="False" name="Client" />
+      <Entry build="False" name="Server" />
+    </Configuration>
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="False" name="Client" />
+      <Entry build="False" name="Server" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Client" single="True">
+    <Execute type="None" entry="Client" />
+    <Execute type="None" entry="Server" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./Client/Client.mdp" />
+    <Entry filename="./Server/Server.mdp" />
+  </Entries>
+</Combine>

@@ -1,0 +1,15 @@
+G:\Programmieren\Chess\Source\Client\obj\Debug\Chess.exe
+G:\Programmieren\Chess\Source\Client\obj\Debug\Chess.pdb
+G:\Programmieren\Chess\Source\Client\obj\Debug\ResolveAssemblyReference.cache
+G:\Programmieren\Chess\Source\Client\bin\Debug\Chess.exe
+G:\Programmieren\Chess\Source\Client\bin\Debug\Chess.pdb
+G:\Programmieren\Chess\Source\Client\bin\Debug\LightFireCS.dll
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.DevIl.dll
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.OpenAl.dll
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.OpenGl.dll
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.Sdl.dll
+G:\Programmieren\Chess\Source\Client\bin\Debug\LightFireCS.pdb
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.Sdl.xml
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.OpenAl.xml
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.OpenGl.xml
+G:\Programmieren\Chess\Source\Client\bin\Debug\Tao.DevIl.xml

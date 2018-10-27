@@ -1,0 +1,16 @@
+<styles>
+
+<style name="window">
+	<background img="gui/*.tga" color="255 255 255 196" />
+	<font file="gui/1.ttf" size="20" />
+</style>
+
+<style name="button">
+	<background img="gui/button.tga" />
+</style>
+
+<style name="textctrl">
+	<background img="gui/*.tga" color="64 128 255" />
+</style>
+
+</styles>
