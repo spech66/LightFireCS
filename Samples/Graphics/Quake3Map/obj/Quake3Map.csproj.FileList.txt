@@ -1,0 +1,5 @@
+obj\x86\Debug\ResolveAssemblyReference.cache
+obj\x86\Debug\Quake3Map.exe
+obj\x86\Debug\Quake3Map.pdb
+..\..\Quake3Map.exe
+..\..\Quake3Map.pdb

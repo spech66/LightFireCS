@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Simple.exe
+bin\Debug\Simple.pdb
+bin\Debug\LightFireCS.dll
+bin\Debug\Tao.DevIl.dll
+bin\Debug\Tao.OpenAl.dll
+bin\Debug\Tao.OpenGl.dll
+bin\Debug\Tao.Sdl.dll
+bin\Debug\Tao.Sdl.xml
+bin\Debug\Tao.OpenGl.xml
+bin\Debug\LightFireCS.pdb
+bin\Debug\Tao.DevIl.xml
+bin\Debug\Tao.OpenAl.xml
+obj\Debug\Simple.exe
+obj\Debug\Simple.pdb

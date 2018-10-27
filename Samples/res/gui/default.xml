@@ -1,0 +1,38 @@
+<styles>
+
+<style name="window">
+	<background img="res/gui/*.tga" color="255 255 255 196" />
+	<backgroundHover img="res/gui/*.tga" color="255 255 255 196" />
+	<backgroundDisabled img="res/gui/*.tga" color="255 255 255 196" />
+	<font file="res/morpheus.ttf" size="16" />
+</style>
+
+<style name="testwindow">
+	<background img="res/gui/test_*.tga" color="255 255 255" />
+	<backgroundHover img="res/gui/test_*.tga" color="255 255 255" />
+	<backgroundDisabled img="res/gui/test_*.tga" color="255 255 255" />
+	<font file="res/morpheus.ttf" size="12" />
+</style>
+
+<style name="button">
+	<background img="res/gui/button.tga" />
+	<backgroundHover img="res/gui/button.tga" color="0 0 255" />
+	<backgroundDisabled img="res/gui/button.tga" color="0 0 255" />
+	<font file="res/morpheus.ttf" size="18" />
+</style>
+
+<style name="textctrl">
+	<background img="res/gui/*.tga" color="64 128 255" />
+	<backgroundHover img="res/gui/*.tga" color="64 128 255" />
+	<backgroundDisabled img="res/gui/*.tga" color="64 128 255" />
+	<font file="res/arial.ttf" size="11" />
+</style>
+
+<style name="progressBar">
+	<background img="res/gui/progress.tga" color="255 255 255" />
+	<backgroundHover img="res/gui/progress.tga" color="255 0 0" />
+	<backgroundDisabled img="res/gui/progress.tga" color="255 255 255" />
+	<font file="res/arial.ttf" size="10" />
+</style>
+
+</styles>

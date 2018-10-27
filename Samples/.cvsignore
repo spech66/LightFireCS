@@ -1,0 +1,9 @@
+bin
+obj
+Samples.suo
+lfcs.htm
+lfcs.txt
+*.pdb
+*.dll
+*.xml
+*.exe

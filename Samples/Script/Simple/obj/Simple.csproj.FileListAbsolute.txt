@@ -1,0 +1,15 @@
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Simple.exe
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Simple.pdb
+G:\Programmieren\Samples\Script\Simple\bin\Debug\LightFireCS.dll
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.DevIl.dll
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.OpenAl.dll
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.OpenGl.dll
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.Sdl.dll
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.Sdl.xml
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.OpenGl.xml
+G:\Programmieren\Samples\Script\Simple\bin\Debug\LightFireCS.pdb
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.DevIl.xml
+G:\Programmieren\Samples\Script\Simple\bin\Debug\Tao.OpenAl.xml
+G:\Programmieren\Samples\Script\Simple\obj\Debug\ResolveAssemblyReference.cache
+G:\Programmieren\Samples\Script\Simple\obj\Debug\Simple.exe
+G:\Programmieren\Samples\Script\Simple\obj\Debug\Simple.pdb

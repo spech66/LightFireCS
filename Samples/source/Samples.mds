@@ -1,0 +1,24 @@
+<Combine name="Samples" fileversion="2.0" outputpath="./build/bin">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry configuration="Debug" build="True" name="Controls" />
+      <Entry configuration="Debug" build="True" name="Simple" />
+      <Entry configuration="Debug" build="True" name="Quake3Map" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry configuration="Release" build="True" name="Controls" />
+      <Entry configuration="Release" build="True" name="Simple" />
+      <Entry configuration="Release" build="True" name="Quake3Map" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Controls" single="True">
+    <Execute type="None" entry="Controls" />
+    <Execute type="None" entry="Simple" />
+    <Execute type="None" entry="Quake3Map" />
+  </StartMode>
+  <Entries>
+    <Entry filename="../Gui/Controls/Controls.mdp" />
+    <Entry filename="../Script/Simple/Simple.mdp" />
+    <Entry filename="../Graphics/Quake3Map/Quake3Map.mdp" />
+  </Entries>
+</Combine>

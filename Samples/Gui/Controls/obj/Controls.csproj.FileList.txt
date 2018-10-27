@@ -1,0 +1,5 @@
+..\..\Controls.exe
+..\..\Controls.pdb
+obj\x86\Release\ResolveAssemblyReference.cache
+obj\x86\Release\Controls.exe
+obj\x86\Release\Controls.pdb

@@ -1,0 +1,16 @@
+<Combine name="Controls" fileversion="2.0">
+  <Configurations>
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="Controls" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="Controls" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="Controls" single="True">
+    <Execute type="None" entry="Controls" />
+  </StartMode>
+  <Entries>
+    <Entry filename="./Controls.mdp" />
+  </Entries>
+</Combine>

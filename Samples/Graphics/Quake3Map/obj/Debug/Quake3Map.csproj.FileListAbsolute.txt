@@ -1,0 +1,15 @@
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Quake3Map.exe
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Quake3Map.pdb
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\LightFireCS.dll
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.DevIl.dll
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.OpenAl.dll
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.OpenGl.dll
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.Sdl.dll
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.Sdl.xml
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.OpenGl.xml
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\LightFireCS.pdb
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.DevIl.xml
+E:\Programmieren\Samples\Graphics\Quake3Map\bin\Debug\Tao.OpenAl.xml
+E:\Programmieren\Samples\Graphics\Quake3Map\obj\Debug\ResolveAssemblyReference.cache
+E:\Programmieren\Samples\Graphics\Quake3Map\obj\Debug\Quake3Map.exe
+E:\Programmieren\Samples\Graphics\Quake3Map\obj\Debug\Quake3Map.pdb

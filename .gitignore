@@ -14,7 +14,7 @@
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
+#*.dll
 
 # Fortran module files
 *.mod
@@ -27,6 +27,15 @@
 *.lib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
+
+Samples.suo
+lfcs.htm
+lfcs.txt
+*.pdb
+#*.xml
+
+CVS
+q3maps

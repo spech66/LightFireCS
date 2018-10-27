@@ -1,0 +1,9 @@
+bin
+obj
+LightFireCS.mds
+LightFireCS.pidb
+Makefile.LightFireCS
+LightFireCS.mdp
+LightFireCS.csproj.user
+LightFireCS.suo
+StyleCop.Cache
